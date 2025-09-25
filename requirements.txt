@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+openai
+numpy
+sentence-transformers
+PyPDF2
+pandas
+openpyxl
